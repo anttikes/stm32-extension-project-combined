@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": [
+        "${workspaceFolder}/stm32-extension-project-A",
+        "${workspaceFolder}/stm32-extension-project-B"
+    ]
+}
